@@ -1,1 +1,1 @@
-# OS_hw2-simple-my-http-server
+# a mini-http-server-clinet-model based on Http protocal 
