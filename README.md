@@ -1,1 +1,3 @@
-# a mini-http-server-clinet-model based on HTTP protocal 
+# a mini-http-server-client-model based on HTTP protocal 
+
+## method used: pthread,message passing, ASMP multitasking
